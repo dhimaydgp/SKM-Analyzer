@@ -1,0 +1,6 @@
+{
+  "name": "Alpukat SKM Analyzer - BKPSDM Purbalingga",
+  "description": "Sistem klasifikasi awal dan verifikasi survei kepuasan masyarakat (SKM) Alpukat BKPSDM Kabupaten Purbalingga berbasis AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
